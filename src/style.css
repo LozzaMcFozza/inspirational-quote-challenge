@@ -13,13 +13,26 @@ body {
   font-size: 24px;
 }
 
+p {
+  font-size: 30px;
+}
+
 footer {
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
   border-top: 1px solid black;
   padding: 15px 0 0;
 }
 
 a {
   color: #c66962;
+}
+
+button {
+  display: block;
+  margin: 15px auto;
+  border-radius: 3px;
+  font-size: 16px;
+  background-color: black;
+  color: lightgray;
 }
