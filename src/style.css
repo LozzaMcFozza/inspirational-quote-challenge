@@ -1,0 +1,25 @@
+body {
+  background: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/158/023/original/Night_Sky_Background.jpg?1739842161)
+    no-repeat center center/cover;
+  color: lightgrey;
+}
+.quote-box {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 30px;
+  text-align: center;
+  font-family: "Tangerine", serif;
+  font-size: 24px;
+}
+
+footer {
+  text-align: center;
+  font-size: 18px;
+  border-top: 1px solid black;
+  padding: 15px 0 0;
+}
+
+a {
+  color: #c66962;
+}
