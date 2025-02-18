@@ -32,6 +32,11 @@ a {
   color: #c66962;
 }
 
+.challenge-info {
+  text-align: center;
+  font-size: 14px;
+}
+
 button {
   display: block;
   margin: 15px auto;
@@ -40,4 +45,10 @@ button {
   background-color: black;
   opacity: 0.4;
   color: lightgray;
+}
+
+button:hover {
+  cursor: pointer;
+  background: white;
+  color: red;
 }
